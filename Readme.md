@@ -1,7 +1,7 @@
 # GDG Algiers Capsule 2k24
 
 <p align="center">
-<img src="/Assets/GDGAlgiers.png" height="auto" width="auto" style="border-radius:50%">
+<img src="/assets/GDGAlgiers.png" height="auto" width="auto" style="border-radius:50%">
 </p>
 
 ## About GDG Algiers Capsule 2k24
