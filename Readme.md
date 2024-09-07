@@ -18,30 +18,33 @@ The **GDG Algiers Capsule 2k24** is a digital time capsule and a collaborative p
 
 To contribute to the GDG Algiers Capsule 2k24, follow these steps:
 
-1. **Clone the Repository:** Clone the repository to your local machine.
+1. **Fork the Repository:** Fork the repository to your personal GitHub account:
+   1. Click on the fork icon:<p align="center"><img src="/assets/gdg-capsule-fork.png" height="auto" width="auto" style="border-radius:50%"></p>
+   2. Create the fork:<p align="center"><img src="/assets/gdg-capsule-fork-detailed.png" height="auto" width="auto" style="border-radius:50%"></p>
+3. **Clone the forked repository:** Clone the forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/GDGAlgiers/gdg-algiers-capsule-2k24.git
+   git clone https://github.com/{username}/gdg-algiers-capsule-2k24.git
    cd gdg-algiers-capsule-2k24
    ```
 
-2. **Create a Branch:** Create a new branch with your name.
+3. **Create a Branch in the fork:** Create a new branch with your name in the forked repository
 
    ```bash
    git checkout -b your-name
    ```
 
-3. **Create Your Folder:** Inside the repository, create a folder named after you.
+4. **Create Your Folder:** Inside the forked repository, create a folder named after you.
 
    ```bash
    mkdir your-name
    ```
 
-4. **Add Your Memories:**
+5. **Add Your Memories:**
    - Create a `README.md` file inside your folder describing your journey with GDG Algiers and your best memories.
    - Add any photos, videos, projects, or other files that capture your moments.
 
-5. **Commit Your Changes:** Add, commit, and push your changes to your branch.
+6. **Commit Your Changes:** Add, commit, and push your changes to your branch.
 
    ```bash
    git add .
@@ -49,9 +52,9 @@ To contribute to the GDG Algiers Capsule 2k24, follow these steps:
    git push origin your-name
    ```
 
-6. **Open a Pull Request:** Go to the repository on GitHub, switch to your branch, and click on the "New Pull Request" button. Submit your pull request for review.
+7. **Open a Pull Request:** Go to the forked repository on GitHub, switch to your new branch, and click on the "New Pull Request" button. Submit your pull request for review.
 
-7. **Celebrate:** Congratulations! You've added your cherished memories to the GDG Algiers Capsule 2k24!
+8. **Celebrate:** Congratulations! You've added your cherished memories to the GDG Algiers Capsule 2k24!
 
 ## 📂 Example Contribution Structure
 
